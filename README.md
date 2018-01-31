@@ -1,0 +1,1 @@
+# gql-ezly-bare-project
